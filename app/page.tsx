@@ -134,7 +134,7 @@ export default function HomePage() {
                 At VK PG Boys Hostel, we understand the importance of a comfortable living space for students and young professionals. Our commitment to your comfort goes beyond just providing a room; we create a home away from home. With modern amenities, a supportive environment, and a focus on your well-being, we ensure that your stay with us is both pleasant and productive.
               </p>
               <p className="text-gray-600 mb-6">
-                Our hostel features well-designed rooms, common areas for socializing and studying, and a range of services to make your daily life easier. From high-speed internet to regular housekeeping, we've got you covered. Choose VK PG Boys Hostel for a living experience that supports your goals and enhances your journey.
+                Our hostel features well-designed rooms, common areas for socializing and studying, and a range of services to make your daily life easier. From high-speed internet to regular housekeeping, we&apos;ve got you covered. Choose VK PG Boys Hostel for a living experience that supports your goals and enhances your journey.
               </p>
               <button className="bg-[#C8A27A] text-white px-6 py-3 rounded-full hover:bg-[#A88A68] transition duration-300">
                 Learn More About Us
